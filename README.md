@@ -1,2 +1,25 @@
-# ES6-Lab
-Repository with ES6 examples
+# Javascript-Lab
+Repository with examples of modern Javascript (ES6, ES7 and ES8)
+
+### Content
+
+- [ES6](https://github.com/cagrispan/js-lab/tree/master/es6-features)
+  - [Constants](https://github.com/cagrispan/js-lab/blob/master/es6-features/const.js)
+  - [Let](https://github.com/cagrispan/js-lab/blob/master/es6-features/let.js)
+  - [Arrow Functions](https://github.com/cagrispan/js-lab/blob/master/es6-features/arrow-function.js)
+  - [String Methods](https://github.com/cagrispan/js-lab/blob/master/es6-features/string-methods.js)
+  - [Array Methods](https://github.com/cagrispan/js-lab/blob/master/es6-features/array-methods.js)
+  - [Destructuring](https://github.com/cagrispan/js-lab/blob/master/es6-features/destructuring.js)
+  - [Spread Operator](https://github.com/cagrispan/js-lab/blob/master/es6-features/spread-operator.js)
+  - [Rest Params](https://github.com/cagrispan/js-lab/blob/master/es6-features/rest-params.js)
+  - [Shorthand Properties](https://github.com/cagrispan/js-lab/blob/master/es6-features/shorthand.js)
+  - [Default Parameter](https://github.com/cagrispan/js-lab/blob/master/es6-features/default-parameter.js)
+  - [Class](https://github.com/cagrispan/js-lab/blob/master/es6-features/class.js)
+  - [Template Literals](https://github.com/cagrispan/js-lab/blob/master/es6-features/template-literals.js)
+  - [Tagged Templates](https://github.com/cagrispan/js-lab/blob/master/es6-features/tagged-template.js)
+  - [Promises](https://github.com/cagrispan/js-lab/blob/master/es6-features/promises.js)
+  - [Proxy](https://github.com/cagrispan/js-lab/blob/master/es6-features/proxy.js)
+  - [Set and WeakSet](https://github.com/cagrispan/js-lab/blob/master/es6-features/set.js)
+  - [Map and WeakMap](https://github.com/cagrispan/js-lab/blob/master/es6-features/map.js)
+  - [Proxy](https://github.com/cagrispan/js-lab/blob/master/es6-features/proxy.js)
+  - [Symbol](https://github.com/cagrispan/js-lab/blob/master/es6-features/symbol.js)
