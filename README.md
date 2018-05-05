@@ -27,3 +27,6 @@ Repository with examples of modern Javascript (ES6, ES7 and ES8)
 - [ES7](https://github.com/cagrispan/js-lab/tree/master/es7-features)
   - [Includes](https://github.com/cagrispan/js-lab/blob/master/es7-features/includes.js)
   - [Exponentiation](https://github.com/cagrispan/js-lab/blob/master/es7-features/exponentiation.js)
+
+- [ES8](https://github.com/cagrispan/js-lab/tree/master/es8-features)
+  - [Async/Await](https://github.com/cagrispan/js-lab/blob/master/es8-features/async-await.js)
