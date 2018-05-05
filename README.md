@@ -23,3 +23,7 @@ Repository with examples of modern Javascript (ES6, ES7 and ES8)
   - [Map and WeakMap](https://github.com/cagrispan/js-lab/blob/master/es6-features/map.js)
   - [Proxy](https://github.com/cagrispan/js-lab/blob/master/es6-features/proxy.js)
   - [Symbol](https://github.com/cagrispan/js-lab/blob/master/es6-features/symbol.js)
+
+- [ES7](https://github.com/cagrispan/js-lab/tree/master/es7-features)
+  - [Includes](https://github.com/cagrispan/js-lab/blob/master/es7-features/includes.js)
+  - [Exponentiation](https://github.com/cagrispan/js-lab/blob/master/es7-features/exponentiation.js)
