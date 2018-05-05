@@ -32,3 +32,6 @@ Repository with examples of modern Javascript (ES6, ES7 and ES8)
   - [Async/Await](https://github.com/cagrispan/js-lab/blob/master/es8-features/async-await.js)
   - [Padding](https://github.com/cagrispan/js-lab/blob/master/es8-features/padding.js)
   - [Object Methods](https://github.com/cagrispan/js-lab/blob/master/es8-features/object-methods.js)
+
+  - [ES9](https://github.com/cagrispan/js-lab/tree/master/es9-features)
+  - [Rest/Spread Properties](https://github.com/cagrispan/js-lab/blob/master/es9-features/rest-spread-properties.js)
